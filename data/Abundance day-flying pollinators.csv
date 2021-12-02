@@ -1,0 +1,121 @@
+Site;Side of the road;Mown.side;Mown.site;Round;Temperature;Mean Wind speed ;Max wind speed;Wind direction;Weather;Butterflies;Bumblebees;Hoverflies;Bees;Observer
+Sigtuna;N;No;No;1;19;5;11;SW;Mostly sunny;6;3;2;1;J
+Sigtuna;S;No;No;1;19;4;10;SW;Mostly sunny;6;2;0;0;J
+Häggeby;S;No;No;1;19;4;8;W;Sunny;8;0;0;0;J
+Häggeby;N;No;No;1;19;4;7;W;Sunny;12;2;0;0;J
+Björklinge;N;No;No;1;23;3;7;SE;Slightly cloudy;2;2;0;0;J
+Björklinge;S;No;No;1;23;3;7;SE;Slightly cloudy;2;6;0;0;J
+Skogstibble;N;No;No;1;25;3;8;N;Scattered clouds;10;2;1;0;J
+Skogstibble;S;No;No;1;25;3;8;S;Scattered clouds;5;0;1;0;J
+Vänge;E;No;No;1;24;4;7;SE;Slightly cloudy;6;2;0;0;J
+Vänge;W;No;No;1;24;4;7;SE;Slightly cloudy;4;0;0;1;J
+Enköping;E;No;No;1;26;4;8;SE;Sunny;1;0;0;0;J
+Enköping;W;No;No;1;26;4;8;SE;Sunny;2;0;0;0;J
+Aspö;W;No;No;1;27;5;12;SE;Sunny;11;0;0;0;J
+Aspö;E;No;No;1;27;5;12;SE;Sunny;2;0;0;5;J
+Tosterön;W;No;No;1;29;5;13;SE;Slightly cloudy;6;0;0;0;J
+Tosterön;E;No;No;1;29;5;13;SE;Slightly cloudy;6;0;0;0;J
+Strängnäs;E;No;No;1;28;7;12;SE;Slightly cloudy;4;0;0;0;J
+Strängnäs;W;No;No;1;28;7;12;SE;Slightly cloudy;0;2;1;1;J
+UpplandsVäsby;W;No;No;1;26;5;12;SE;Sunny;6;0;0;0;J
+UpplandsVäsby;E;No;No;1;26;5;12;SE;Sunny;4;0;0;1;J
+Tierp;N;No;No;2;25;5;12;S;Slightly cloudy;8;1;5;0;J
+Tierp;S;No;No;2;25;5;12;S;Slightly cloudy;24;8;7;3;J
+Skärplinge;E;No;No;2;20;3;8;N;Slightly cloudy;20;5;3;0;J
+Skärplinge;W;No;No;2;19;4;8;N;Slightly cloudy;16;4;1;1;J
+Strängnäs;E;No;No;2;19;4;9;N;Scattered clouds;13;16;11;0;J
+Strängnäs;W;No;No;2;19;4;9;N;Scattered clouds;10;17;14;0;J
+Aspö;W;No;No;2;20;4;10;N;Sunny;18;5;4;1;J
+Aspö;E;No;No;2;20;4;10;N;Sunny;31;3;2;0;J
+Östhammar;E;No;Yes;2;21;2;6;W;Cloudy - scattered clouds;8;0;1;1;J
+Östhammar;W;Yes;Yes;2;21;2;6;W;Scattered clouds;12;1;0;0;J
+Hargshamn;W;Yes;Yes;2;22;3;7;SW;Scattered clouds;15;5;0;0;J
+Hargshamn;E;No;Yes;2;22;3;7;SW;Scattered clouds;27;14;1;1;J
+Rovsättra;E;No;No;2;24;3;8;W;Sunny;36;19;2;1;J
+Rovsättra;W;No;No;2;24;3;8;W;Scattered clouds;23;10;2;0;J
+Knutby;W;Yes;Yes;2;24;0;5;NW;Sunny;19;18;1;10;J
+Knutby;E;Yes;Yes;2;24;0;5;N;Scattered clouds;12;17;10;11;J
+Skutskär;W;No;No;2;26;4;11;S;Sunny;9;11;4;0;J
+Skutskär;E;No;No;2;26;4;11;SE;Sunny;13;8;3;0;J
+Tierp;N;Yes;Yes;3;22;2;8;SW;Scattered clouds;8;3;2;2;J
+Tierp;S;Yes;Yes;3;22;2;8;SW;Scattered clouds;15;4;2;1;J
+Skogstibble;N;Yes;Yes;3;22;3;7;S;Scattered clouds;30;6;2;2;J
+Skogstibble;S;Yes;Yes;3;22;3;7;S;Cloudy;13;1;4;5;J
+Skärplinge;W;No;No;3;19;2;6;SW;Scattered clouds - cloudy;3;15;6;0;J
+Skärplinge;E;No;No;3;19;2;6;SW;Cloudy;2;7;18;0;J
+Tosterön;W;No;No;3;22;2;6;W;Scattered clouds;2;10;5;0;J
+Tosterön;E;No;No;3;22;2;6;W;Scattered clouds;2;1;0;0;J
+Strängnäs;E;Yes;Yes;3;20;3;7;NW;Scattered clouds;6;5;1;1;J
+Strängnäs;W;Yes;Yes;3;20;3;8;N;Scattered clouds;4;3;6;1;J
+UpplandsVäsby;E;No;No;3;20;5;11;SW;Cloudy;4;4;7;8;J
+UpplandsVäsby;W;No;No;3;;;;;;0;1;37;0;J
+Aspö;W;No;No;3;21;6;14;SW;Scattered clouds;5;1;7;0;J
+Aspö;E;No;No;3;20;5;14;SW;;6;19;3;0;J
+Skutskär;E;Yes;Yes;3;20;4;10;SW;Scattered clouds;2;2;1;3;J
+Skutskär;W;Yes;Yes;3;20;4;10;SW;Cloudy;0;1;0;0;J
+Björklinge;S;Not.recently;Not.recently;3;20;4;10;SW;Scattered clouds;2;1;11;0;J
+Björklinge;N;Not.recently;Not.recently;3;20;4;10;SW;Scattered clouds;2;1;10;0;J
+Hargshamn;SW;Not.recently;Not.recently;3;21;3;7;NE;Scattered clouds ;14;1;28;0;C
+Hargshamn;NE;No;Not.recently;3;21;3;7;NE;Scattered clouds ;12;2;12;0;C
+Östhammar;E;No;Not.recently;3;23;3;7;NE;Scattered clouds ;6;0;14;0;C
+Östhammar;W;Not.recently;Not.recently;3;23;3;7;NE;Scattered clouds ;18;14;22;3;C
+Rovsättra;W;Yes;Yes;3;24;3;7;NE;Scattered clouds ;12;3;3;2;C
+Rovsättra;E;Yes;Yes;3;24;3;7;NE;Scattered clouds ;11;2;4;1;C
+Enköping;W;Not.recently;Not.recently;3;23;3;8;NE;Scattered clouds ;20;4;17;1;C
+Enköping;E;Not.recently;Not.recently;3;23;3;8;NE;Scattered clouds ;17;5;29;1;C
+Rimbo;NW;Not.recently;Not.recently;3;20;3;7;SW;Scattered clouds ;3;0;8;0;C
+Rimbo;SE;Not.recently;Not.recently;3;22;3;7;SW;Scattered clouds ;37;0;5;0;C
+Knutby;W;Not.recently;Not.recently;3;22,5;2;7;S;Scattered clouds ;2;0;7;1;C
+Knutby;E;Not.recently;Not.recently;3;22,5;2;7;S;Scattered clouds ;9;8;14;0;C
+Gottröra;N;Not.recently;Not.recently;3;22;2;7;SW;Sunny;42;0;4;0;C
+Gottröra;S;Not.recently;Not.recently;3;22;2;7;SW;Sunny;8;7;17;2;C
+Sigtuna;SE;Not.recently;Not.recently;3;22;4;10;NE;Scattered clouds ;16;6;9;5;C
+Sigtuna;NW;Not.recently;Not.recently;3;24;4;10;NE;Scattered clouds ;14;0;14;1;C
+Vänge;SW;Yes;Yes;3;24;4;10;NE;Scattered clouds ;5;1;11;0;C
+Vänge;NE;Yes;Yes;3;23;4;10;NE;Cloudy ;5;8;7;0;C
+Arlanda;NE;Not.recently;Not.recently;3;22;2;5;NE;Cloudy ;7;0;3;0;C
+Arlanda;SW;Not.recently;Not.recently;3;22;2;5;NE;Cloudy ;7;0;2;0;C
+Häggeby;E;Not.recently;Not.recently;3;21;5;10;NE;Scattered clouds ;12;3;7;0;C
+Häggeby;W;Not.recently;Not.recently;3;23;5;10;NE;Scattered clouds ;16;1;4;2;C
+Vänge;NW;No;No;2;24;2;5;E;Scattered clouds ;22;15;3;3;C
+Vänge;SE;No;No;2;26;2;5;E;Scattered clouds ;37;18;7;6;C
+Skogstibble;S;No;No;2;27;2;7;SE;Scattered clouds ;25;9;14;0;C
+Skogstibble;N;No;No;2;29;2;7;SE;Scattered clouds ;59;32;15;0;C
+Björklinge;S;Yes;Yes;2;26;2;7;SE;Scattered clouds ;38;10;5;1;C
+Björklinge;N;Yes;Yes;2;28;2;7;SE;Scattered clouds ;30;47;4;0;C
+Gottröra;S;Yes;Yes;2;27;1;5;S;Sunny ;10;1;3;0;C
+Gottröra;N;Yes;Yes;2;27;1;5;N;Sunny ;42;4;41;1;C
+Rimbo;NW;Yes;Yes;2;26;3;8;NW;Scattered clouds ;30;2;4;1;C
+Rimbo;SE;Yes;Yes;2;26;3;8;NW;Scattered clouds ;14;3;17;0;C
+Östhammar;W;No;No;1;24,7;4;;NE;Sunny ;1;1;2;0;C
+Östhammar;E;No;No;1;24,7;4;;NE;Sunny ;2;0;0;0;C
+Skärplinge;E;No;No;1;22,3;7;;NE;Sunny ;5;6;5;1;C
+Skärplinge;W;No;No;1;24,3;7;;NE;Sunny ;6;0;0;0;C
+Tierp;SW;No;No;1;26,1;6;;NE;Sunny ;7;1;0;0;C
+Tierp;NE;No;No;1;26,1;6;;NE;Sunny ;4;12;2;0;C
+Knutby;W;No;No;1;25,1;4;;NE;Sunny ;3;1;0;0;C
+Knutby;E;No;No;1;24,1;4;;NE;Sunny ;5;2;0;0;C
+Skutskär;W;No;No;1;25,2;3;;NE?;Scattered clouds ;7;8;0;3;C
+Skutskär;E;No;No;1;25,2;3;;NE?;Scattered clouds ;3;6;0;0;C
+Rovsättra;E;No;No;1;26,8;3;;NW;Sunny ;9;6;2;3;C
+Rovsättra;W;No;No;1;26,8;3;;NW;Sunny ;12;3;0;0;C
+Hargshamn;SW;No;No;1;29,1;1;;NW ;Sunny ;7;1;0;0;C
+Hargshamn;NE;No;No;1;29,1;1;;NW ;Sunny ;1;0;0;1;C
+Gottröra;NE;No;No;1;27,3;3;;NW;Sunny ;8;0;0;0;C
+Gottröra;SW;No;No;1;28,9;3;;NW ;Sunny ;5;0;0;0;C
+Rimbo;NW;No;No;1;30,5;4;;NW;Sunny ;16;0;0;0;C
+Rimbo;SE;No;No;1;31,5;4;;SE;Sunny ;8;0;0;0;C
+Arlanda;NE;No;No;1;32,3;5;;NW ;Sunny ;12;0;0;0;C
+Arlanda;SW;No;No;1;32,3;5;;NW ;Sunny ;13;0;0;0;C
+UpplandsVäsby;NE;No;No;2;20;4;10;S;Scattered clouds ;22;1;2;0;C
+UpplandsVäsby;NE;No;No;2;22;4;10;S;Scattered clouds ;11;0;0;0;C
+Arlanda;S;Yes;Yes;2;22;5;10;S;Sunny ;15;1;2;0;C
+Arlanda;N;Yes;Yes;2;23;5;10;S;Sunny ;17;2;0;0;C
+Sigtuna;N;Yes;Yes;2;21;4;10;S;Scattered clouds ;51;2;8;1;C
+Sigtuna;S;Yes;Yes;2;21;4;10;S;Scattered clouds ;73;20;6;2;C
+Häggeby;N;Yes;Yes;2;21;5;9;S;Sunny ;13;3;1;2;C
+Häggeby;S;Yes;Yes;2;21;5;9;S;Sunny ;7;1;1;1;C
+Tosterön;W;No;No;2;22;1;4;SW;Sunny ;27;2;6;2;C
+Tosterön;E;No;No;2;22;1;4;SW;Sunny ;19;0;4;0;C
+Enköping;E;Yes;Yes;2;24;1;5;NW ;Scattered clouds ;42;1;1;0;C
+Enköping;W;Yes;Yes;2;25;1;5;NW;Scattered clouds ;51;0;0;0;C
